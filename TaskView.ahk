@@ -1,3 +1,4 @@
-Send {LWin Down}{Tab}
-Send {LWin up}
-Return
+#z::
+ Send {LWin Down}{Tab}
+ Send {LWin up}
+return
